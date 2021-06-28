@@ -1,0 +1,1 @@
+(self.webpackChunktrailing_bug=self.webpackChunktrailing_bug||[]).push([[224],{661:function(l){"use strict";l.exports=JSON.parse('{"allTagsPath":"/docusaurus-trailing-slash/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/docusaurus-trailing-slash/blog/tags/hello"}')}}]);
