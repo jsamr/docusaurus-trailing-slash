@@ -13,6 +13,7 @@ module.exports = {
   organizationName: 'jsamr', // Usually your GitHub org/user name.
   projectName: 'docusaurus-trailing-slash', // Usually your repo name.
   trailingSlash: false,
+  plugins: [require('./docusaurus-plugin')],
   themeConfig: {
     navbar: {
       title: 'My Site',
